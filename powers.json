@@ -1,0 +1,22 @@
+{
+    "1": [
+        {"name": "Feather-light", "rules": "Weight reduced by 50%. Accuracy +5%."},
+        {"name": "Neon Glow", "rules": "The arrow leaves a trail of light. Visible at night."}
+    ],
+    "2": [
+        {"name": "Iron Head", "rules": "Increases armor penetration by 10 points."},
+        {"name": "Quick Draw", "rules": "Reduces nocking time by 0.2 seconds."}
+    ],
+    "3": [
+        {"name": "Fire Aspect", "rules": "Deals 5 fire damage over 3 seconds."},
+        {"name": "Frost Bite", "rules": "Slows target movement by 20%."}
+    ],
+    "4": [
+        {"name": "Explosive Payload", "rules": "Explodes on impact for 50 AoE damage."},
+        {"name": "Chain Lightning", "rules": "Jumps to 2 nearby targets."}
+    ],
+    "5": [
+        {"name": "Dragon Breath", "rules": "Leaves a pool of fire on the ground for 5s."},
+        {"name": "Temporal Rift", "rules": "Freezes the target in time for 1 second."}
+    ]
+}
