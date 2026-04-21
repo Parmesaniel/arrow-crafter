@@ -1,22 +1,32 @@
 {
     "1": [
-        {"name": "Feather-light", "rules": "Weight reduced by 50%. Accuracy +5%."},
-        {"name": "Neon Glow", "rules": "The arrow leaves a trail of light. Visible at night."}
+        {"name": "Vexing Tip", "rules": "On a hit, the target has Disadvantage on the next attack roll it makes before the end of its next turn."},
+        {"name": "Glow-Stitch", "rules": "The arrow deals no damage but coats the target in bioluminescence. Attacks against the target have Advantage for 1 minute or until it takes a Magic action to wipe it off."},
+        {"name": "Tracing Shot", "rules": "You ignore half and three-quarters cover with this attack."},
+        {"name": "Slowing Sap", "rules": "The target's Speed is reduced by 10 feet until the start of your next turn."}
     ],
     "2": [
-        {"name": "Iron Head", "rules": "Increases armor penetration by 10 points."},
-        {"name": "Quick Draw", "rules": "Reduces nocking time by 0.2 seconds."}
+        {"name": "Toppling Impact", "rules": "The target must succeed on a DC 13 Strength saving throw or be knocked Prone."},
+        {"name": "Pushing Shaft", "rules": "The target must succeed on a DC 13 Strength saving throw or be pushed up to 10 feet away from you."},
+        {"name": "Muffled Shank", "rules": "If this hit kills a creature, it dies silently. No sound is produced, and nearby creatures must pass a DC 15 Perception check to notice the death."},
+        {"name": "Quick-Draw Balance", "rules": "Firing this arrow costs only a Bonus Action instead of an Action if you have already taken the Attack action."}
     ],
     "3": [
-        {"name": "Fire Aspect", "rules": "Deals 5 fire damage over 3 seconds."},
-        {"name": "Frost Bite", "rules": "Slows target movement by 20%."}
+        {"name": "Cleaving Broadhead", "rules": "If the attack hits, you can deal the same damage to a second creature within 5 feet of the original target."},
+        {"name": "Draining Barb", "rules": "The arrow deals an extra 1d6 Necrotic damage, and you gain Temporary Hit Points equal to the Necrotic damage dealt."},
+        {"name": "Blinding Flash", "rules": "The target must succeed on a DC 14 Constitution saving throw or be Blinded until the end of its next turn."},
+        {"name": "Sonic Snap", "rules": "Each creature within 5 feet of the target must succeed on a DC 14 Constitution saving throw or take 2d6 Thunder damage."}
     ],
     "4": [
-        {"name": "Explosive Payload", "rules": "Explodes on impact for 50 AoE damage."},
-        {"name": "Chain Lightning", "rules": "Jumps to 2 nearby targets."}
+        {"name": "Pinning Spike", "rules": "The target must succeed on a DC 15 Strength saving throw or have its Speed reduced to 0 (Grappled) as it is pinned to a surface or the ground."},
+        {"name": "Corrosive Core", "rules": "The arrow deals an extra 3d6 Acid damage. If the target is wearing nonmagical armor, its AC is permanently reduced by 1."},
+        {"name": "Distracting Salvo", "rules": "The target is Incapacitated until the start of your next turn unless it passes a DC 15 Wisdom saving throw."},
+        {"name": "Phase Arrow", "rules": "This arrow passes through solid objects. You can target a creature you can't see as long as you know its location, ignoring all cover and shields."}
     ],
     "5": [
-        {"name": "Dragon Breath", "rules": "Leaves a pool of fire on the ground for 5s."},
-        {"name": "Temporal Rift", "rules": "Freezes the target in time for 1 second."}
+        {"name": "Exhausting Sting", "rules": "The target must succeed on a DC 16 Constitution saving throw or gain 1 level of Exhaustion."},
+        {"name": "Banishment Head", "rules": "The target must succeed on a DC 16 Charisma saving throw or be banished to a harmless demiplane until the end of its next turn."},
+        {"name": "Dragon's Hiss", "rules": "The arrow explodes in a 15-foot cone behind the target. Each creature in the area takes 5d6 Fire damage (DC 16 Dex save for half)."},
+        {"name": "Gravity Well", "rules": "A 10-foot radius sphere of high gravity forms at the impact site. Any creature in the area is Restrained (DC 16 Strength save to escape)."}
     ]
 }
