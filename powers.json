@@ -1,37 +1,37 @@
 {
     "1": [
         {"name": "Vexing Tip", "rules": "On a hit, the target has Disadvantage on the next attack roll it makes before the end of its next turn."},
-        {"name": "Tracing Shot", "rules": "This attack ignores Half and Three-Quarters cover."},
+        {"name": "Tracing Shot", "rules": "This attack ignores Half cover."},
         {"name": "Slowing Sap", "rules": "The target's Speed is reduced by 10 feet until the start of your next turn."},
-        {"name": "Armor Piercer", "rules": "You gain a +2 bonus to the attack roll against targets wearing Heavy Armor or Natural Armor."},
-        {"name": "Bleeding Edge", "rules": "The target takes an additional 1d4 Slashing damage at the start of its next turn."}
+        {"name": "Light-Headed", "rules": "The arrow glows. The target sheds Dim Light in a 5-foot radius; it cannot benefit from being Invisible until the start of your next turn."},
+        {"name": "Point Blank", "rules": "Being within 5 feet of a hostile creature doesn’t impose Disadvantage on your attack roll with this arrow."}
     ],
     "2": [
-        {"name": "Toppling Impact", "rules": "The target must succeed on a DC 13 Strength save or be knocked Prone."},
-        {"name": "Pushing Shaft", "rules": "The target must succeed on a DC 13 Strength save or be pushed up to 10 feet away from you."},
-        {"name": "Shield-Breaker", "rules": "If the target is using a shield, it loses its AC bonus from that shield until the start of your next turn."},
-        {"name": "Quick-Draw Balance", "rules": "Firing this arrow costs only a Bonus Action if you have already taken the Attack action this turn."},
-        {"name": "Distracting Sting", "rules": "The next attack roll made against this target by a creature other than you has Advantage."}
+        {"name": "Toppling Impact", "rules": "The target must succeed on a DC 12 Strength save or be knocked Prone."},
+        {"name": "Pushing Shaft", "rules": "The target must succeed on a DC 12 Strength save or be pushed 10 feet away from you."},
+        {"name": "Quick-Draw", "rules": "If you miss with this arrow, you can use a Bonus Action to immediately fire one non-magical arrow."},
+        {"name": "Hamstring", "rules": "The target cannot take the Dash or Disengage action until the end of its next turn."},
+        {"name": "Distracting Sting", "rules": "The next attack roll made against this target by someone other than you has Advantage."}
     ],
     "3": [
-        {"name": "Fire Aspect", "rules": "The arrow deals an extra 2d6 Fire damage and ignites flammable objects not being worn or carried."},
-        {"name": "Frost Bite", "rules": "The target must succeed on a DC 14 Constitution save or be Restrained by ice until the end of its next turn."},
-        {"name": "Cleaving Broadhead", "rules": "If the attack hits, you can deal the same damage to a second creature within 5 feet of the original target."},
-        {"name": "Draining Barb", "rules": "The arrow deals an extra 1d6 Necrotic damage; you gain Temporary Hit Points equal to the Necrotic damage dealt."},
-        {"name": "Blinding Flash", "rules": "The target must succeed on a DC 14 Constitution save or be Blinded until the end of its next turn."}
+        {"name": "Fire Aspect", "rules": "The arrow deals an extra 1d8 Fire damage and ignites flammable objects not being worn."},
+        {"name": "Frost Bite", "rules": "The target's speed is halved until the end of its next turn. It cannot take Reactions."},
+        {"name": "Cleaving Broadhead", "rules": "If the attack hits, a second creature within 5 feet of the target takes 1d6 Piercing damage."},
+        {"name": "Draining Barb", "rules": "The arrow deals an extra 1d4 Necrotic damage; you gain Temporary Hit Points equal to the damage dealt."},
+        {"name": "Blinding Flash", "rules": "The target must succeed on a DC 13 Constitution save or be Blinded until the end of its next turn."}
     ],
     "4": [
-        {"name": "Pinning Spike", "rules": "The target must succeed on a DC 15 Strength save or be Restrained as it is pinned to a nearby surface or the ground."},
-        {"name": "Corrosive Core", "rules": "The arrow deals an extra 3d6 Acid damage. If the target has nonmagical armor, its AC is reduced by 1."},
-        {"name": "Phase Arrow", "rules": "This arrow passes through solid objects. You can target a creature through total cover if you know its location."},
-        {"name": "Stunning Vibration", "rules": "The target must succeed on a DC 15 Constitution save or be Stunned until the end of its next turn."},
-        {"name": "Explosive Payload", "rules": "On impact, the arrow explodes. Each creature within 10 feet must make a DC 15 Dex save or take 3d6 Fire damage."}
+        {"name": "Pinning Spike", "rules": "The target must succeed on a DC 14 Strength save or be Grappled (escape DC 14) as it is pinned to the floor or a wall."},
+        {"name": "Corrosive Core", "rules": "The arrow deals an extra 2d6 Acid damage."},
+        {"name": "Phase Arrow", "rules": "This arrow passes through solid objects. You ignore all cover, including Total Cover if you know the target's location."},
+        {"name": "Stunning Vibration", "rules": "The target must succeed on a DC 14 Constitution save or be Incapacitated until the end of its next turn."},
+        {"name": "Explosive Payload", "rules": "Creatures within 5 feet of the target must succeed on a DC 13 Dex save or take 2d6 Fire damage."}
     ],
     "5": [
-        {"name": "Exhausting Sting", "rules": "The target must succeed on a DC 16 Constitution save or gain 1 level of Exhaustion."},
-        {"name": "Banishment Head", "rules": "The target must succeed on a DC 16 Charisma save or be banished to a demiplane until the end of its next turn."},
-        {"name": "Dragon's Hiss", "rules": "The arrow explodes in a 15-foot cone behind the target, dealing 5d6 Fire damage (DC 16 Dex save for half)."},
-        {"name": "Gravity Well", "rules": "A 10-foot radius sphere of high gravity forms. Creatures in the area are Restrained (DC 16 Strength save to escape)."},
-        {"name": "Mortal Hunter", "rules": "This arrow deals an extra 4d10 Force damage. If this reduces the target to 0 HP, it is disintegrated."}
+        {"name": "Weakening Sting", "rules": "The target must succeed on a DC 15 Constitution save or deal half damage with weapon attacks until the end of its next turn."},
+        {"name": "Banishment Head", "rules": "The target must succeed on a DC 15 Charisma save or be banished to a demiplane until the start of your next turn."},
+        {"name": "Dragon's Hiss", "rules": "The arrow explodes in a 15-foot cone behind the target, dealing 3d6 Fire damage (DC 15 Dex save for half)."},
+        {"name": "Gravity Well", "rules": "The target's space becomes Difficult Terrain. If the target moves, it takes 1d10 Force damage. Lasts 1 round."},
+        {"name": "Seeker Arrow", "rules": "You do not roll to hit. The arrow automatically hits a target you have seen in the last minute. Deals normal damage."}
     ]
 }
