@@ -34,7 +34,7 @@
         {"name": "Chaining", "rules": "After the arrow hits, choose another target and repeat the attack. Continue until you miss. And yes, all secondary effects still happen for all attacks."}
     ],
     "3": [
-        {"name": "Fire", "rules": "The arrow deals an extra 1d8 Fire damage and ignites flammable objects not being worn."},
+        {"name": "Fire", "rules": "The arrow deals an extra 2d8 Fire damage and ignites flammable objects not being worn."},
         {"name": "Frost", "rules": "If you damage an enemy, it's speed is halved until the end of its next turn. It cannot take Reactions."},
         {"name": "Cleaving", "rules": "Attack each creature in a 15 ft cone"},
         {"name": "Draining", "rules": "The arrow deals an extra 1d4 Necrotic damage; you gain Temporary Hit Points equal to the damage dealt."},
