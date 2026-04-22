@@ -1,10 +1,19 @@
 {
     "1": [
-        {"name": "Vexing Tip", "rules": "On a hit, the target has Disadvantage on the next attack roll it makes before the end of its next turn."},
-        {"name": "Tracing Shot", "rules": "This attack ignores Half cover."},
-        {"name": "Slowing Sap", "rules": "The target's Speed is reduced by 10 feet until the start of your next turn."},
-        {"name": "Light-Headed", "rules": "The arrow glows. The target sheds Dim Light in a 5-foot radius; it cannot benefit from being Invisible until the start of your next turn."},
-        {"name": "Point Blank", "rules": "Being within 5 feet of a hostile creature doesn’t impose Disadvantage on your attack roll with this arrow."}
+        {"name": "Accurate", "rules": "Gain +2 to attack rolls made with this arrow"},
+        {"name": "Explosive", "rules": "On impact, this arrow explodes and deals 2 fire damage to each creature within 5 ft."},
+        {"name": "Flaming", "rules": "All attacks with this arrow deal fire damage and ignite flammable objects."},
+        {"name": "Healing", "rules": "Instead of dealing damage to allies with this arrow, they heal 1d4 hitpoints instead."},
+        {"name": "Radiant", "rules": "All attacks with this arrow deal radiant damage instead."},
+        {"name": "Boundy", "rules": "This arrow can bounce off of one surface before it hits its first target."},
+        {"name": "Roped", "rules": "After dealing damage to a target, you can either pull yourself to the target or"},
+        {"name": "", "rules": ""},
+        {"name": "", "rules": ""},
+        {"name": "", "rules": ""},
+        {"name": "", "rules": ""},
+        
+        
+        
     ],
     "2": [
         {"name": "Toppling Impact", "rules": "The target must succeed on a DC 12 Strength save or be knocked Prone."},
