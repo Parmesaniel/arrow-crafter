@@ -7,27 +7,32 @@
         {"name": "Radiant", "rules": "All attacks with this arrow deal radiant damage instead."},
         {"name": "Boundy", "rules": "This arrow can bounce off of one surface before it hits its first target."},
         {"name": "Roped", "rules": "After dealing damage to a target, if the target is small or medium, you can either pull yourself to the target or make a strength contest to pull the target 10 ft towards you."},
+        {"name": "Glowing", "rules": "The arrow gains all benefits from the Light spell and leaves a glowing trail in it's path."},
+        {"name": "Immaterial", "rules": "You can shoot this arrow through solid objects."},
+        {"name": "Floating", "rules": "Gravity does not affect this arrow."},
+        {"name": "Foggy", "rules": "Bursts into a cloud of mist on impact. Grants partial cover."},
+        {"name": "Tongued", "rules": "You can dictate a short sentence to the arrow which it recites on impact."},
         {"name": "", "rules": ""},
         {"name": "", "rules": ""},
-        {"name": "", "rules": ""},
-        {"name": "", "rules": ""},
-        
+        {"name": "", "rules": ""}
         
         
     ],
     "2": [
-        {"name": "Toppling Impact", "rules": "The target must succeed on a DC 12 Strength save or be knocked Prone."},
-        {"name": "Pushing Shaft", "rules": "The target must succeed on a DC 12 Strength save or be pushed 10 feet away from you."},
+        {"name": "Toppling", "rules": "The target must succeed on a DC 12 Strength save or be knocked Prone."},
+        {"name": "Splitting", "rules": "You can target an additional creature with this attack."},
+        {"name": "Massive", "rules": "The target must succeed on a DC 12 Strength save or be pushed 10 feet away from you."},
         {"name": "Quick-Draw", "rules": "If you miss with this arrow, you can use a Bonus Action to immediately fire one non-magical arrow."},
         {"name": "Hamstring", "rules": "The target cannot take the Dash or Disengage action until the end of its next turn."},
-        {"name": "Distracting Sting", "rules": "The next attack roll made against this target by someone other than you has Advantage."}
+        {"name": "Distracting", "rules": "The next attack roll made against this target by someone other than you has Advantage."}
     ],
     "3": [
-        {"name": "Fire Aspect", "rules": "The arrow deals an extra 1d8 Fire damage and ignites flammable objects not being worn."},
-        {"name": "Frost Bite", "rules": "The target's speed is halved until the end of its next turn. It cannot take Reactions."},
-        {"name": "Cleaving Broadhead", "rules": "If the attack hits, a second creature within 5 feet of the target takes 1d6 Piercing damage."},
-        {"name": "Draining Barb", "rules": "The arrow deals an extra 1d4 Necrotic damage; you gain Temporary Hit Points equal to the damage dealt."},
-        {"name": "Blinding Flash", "rules": "The target must succeed on a DC 13 Constitution save or be Blinded until the end of its next turn."}
+        {"name": "Fire", "rules": "The arrow deals an extra 1d8 Fire damage and ignites flammable objects not being worn."},
+        {"name": "Frost", "rules": "The target's speed is halved until the end of its next turn. It cannot take Reactions."},
+        {"name": "Cleaving", "rules": "If the attack hits, a second creature within 5 feet of the target takes 1d6 Piercing damage."},
+        {"name": "Draining", "rules": "The arrow deals an extra 1d4 Necrotic damage; you gain Temporary Hit Points equal to the damage dealt."},
+        {"name": "Blinding", "rules": "The target must succeed on a DC 13 Constitution save or be Blinded until the end of its next turn."}
+        {"name": "Charming", "rules": "You can choose to charm a creature instead of dealing damage with this."}
     ],
     "4": [
         {"name": "Beau's Finest", "rules": "Something STRONG."}
