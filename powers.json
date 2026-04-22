@@ -36,7 +36,7 @@
     "3": [
         {"name": "Fire", "rules": "The arrow deals an extra 1d8 Fire damage and ignites flammable objects not being worn."},
         {"name": "Frost", "rules": "If you damage an enemy, it's speed is halved until the end of its next turn. It cannot take Reactions."},
-        {"name": "Cleaving", "rules": "If the attack hits, a second creature within 5 feet of the target takes 1d6 Piercing damage."},
+        {"name": "Cleaving", "rules": "Attack each creature in a 15 ft cone"},
         {"name": "Draining", "rules": "The arrow deals an extra 1d4 Necrotic damage; you gain Temporary Hit Points equal to the damage dealt."},
         {"name": "Blinding", "rules": "If the attack hits, the target must succeed on a DC 13 Constitution save or be Blinded until the end of its next turn."},
         {"name": "Charming", "rules": "You can choose to charm a creature instead of dealing damage with this."}
