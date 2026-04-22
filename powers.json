@@ -23,6 +23,7 @@
     "2": [
         {"name": "Toppling", "rules": "The target must succeed on a DC 12 Strength save or be knocked Prone."},
         {"name": "Splitting", "rules": "You can target an additional creature with this attack."},
+        {"name": "Healing", "rules": "Instead of dealing damage to allies with this arrow, they heal 1d8 hitpoints instead."},
         {"name": "Massive", "rules": "The target must succeed on a DC 12 Strength save or be pushed 10 feet away from you."},
         {"name": "Quick-Draw", "rules": "If you miss with this arrow, you can use a Bonus Action to immediately fire one non-magical arrow."},
         {"name": "Hamstring", "rules": "The target cannot take the Dash or Disengage action until the end of its next turn."},
@@ -37,6 +38,7 @@
         {"name": "Fire", "rules": "The arrow deals an extra 2d8 Fire damage and ignites flammable objects not being worn."},
         {"name": "Frost", "rules": "If you damage an enemy, it's speed is halved until the end of its next turn. It cannot take Reactions."},
         {"name": "Cleaving", "rules": "Attack each creature in a 15 ft cone"},
+        {"name": "Healing", "rules": "Instead of dealing damage to allies with this arrow, they heal 1d12 hitpoints instead."},
         {"name": "Draining", "rules": "The arrow deals an extra 1d4 Necrotic damage; you gain Temporary Hit Points equal to the damage dealt."},
         {"name": "Blinding", "rules": "If the attack hits, the target must succeed on a DC 13 Constitution save or be Blinded until the end of its next turn."},
         {"name": "Charming", "rules": "You can choose to charm a creature instead of dealing damage with this."}
