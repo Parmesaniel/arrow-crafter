@@ -12,9 +12,13 @@
         {"name": "Floating", "rules": "Gravity does not affect this arrow."},
         {"name": "Foggy", "rules": "Bursts into a cloud of mist on impact. Grants partial cover."},
         {"name": "Tongued", "rules": "You can dictate a short sentence to the arrow which it recites on impact."},
-        {"name": "", "rules": ""},
-        {"name": "", "rules": ""},
-        {"name": "", "rules": ""}
+        {"name": "Second Chance", "rules": "You can remove one feature from this arrow and regain the crafting points. Including this one."},
+        {"name": "True", "rules": "Can hit invisible targets if you describe the target to the arrow."},
+        {"name": "Colorful", "rules": "Choose a color. On impact this arrow bursts, covering the area in hard to remove coloring."},
+        {"name": "Listening", "rules": "For the next minute after firing, you can listen as if you were in the space of the arrow"},
+        {"name": "Scrying", "rules": "For the next minute after firing you can see as if you were in the space of the arrow"},
+        {"name": "Invisible", "rules": "Really hard to find, but you gain advantage on attacks made with this arrow."},
+        {"name": "Bursting", "rules": "This arrow brusts into many pieces on impact and the splinters deal 1 damage to each creature within 30 ft."}
         
         
     ],
@@ -24,14 +28,20 @@
         {"name": "Massive", "rules": "The target must succeed on a DC 12 Strength save or be pushed 10 feet away from you."},
         {"name": "Quick-Draw", "rules": "If you miss with this arrow, you can use a Bonus Action to immediately fire one non-magical arrow."},
         {"name": "Hamstring", "rules": "The target cannot take the Dash or Disengage action until the end of its next turn."},
-        {"name": "Distracting", "rules": "The next attack roll made against this target by someone other than you has Advantage."}
+        {"name": "Distracting", "rules": "The next attack roll made against this target by someone other than you has Advantage."},
+        {"name": "Loud", "rules": "Emits a loud noise while flying. Creatures in its path are deafened until the start of your next turn."},
+        {"name": "Tasty", "rules": "This arrow becomes edible and can feed a group of adventureres for a day."},
+        {"name": "Invisiblerer", "rules": "Allies affected or hit by this arrow turn invisible for 1 minute, or until they attack or cast a spell."},
+        {"name": "Giant", "rules": "Allies affected or hit by this arrow gain the benefit of the Enlarge spell for 1 minute"},
+        {"name": "Chaining", "rules": "After the arrow hits, choose another target and repeat the attack. Continue until you miss. And yes, all secondary effects still happen for all attacks."}
+        
     ],
     "3": [
         {"name": "Fire", "rules": "The arrow deals an extra 1d8 Fire damage and ignites flammable objects not being worn."},
-        {"name": "Frost", "rules": "The target's speed is halved until the end of its next turn. It cannot take Reactions."},
+        {"name": "Frost", "rules": "If you damage an enemy, it's speed is halved until the end of its next turn. It cannot take Reactions."},
         {"name": "Cleaving", "rules": "If the attack hits, a second creature within 5 feet of the target takes 1d6 Piercing damage."},
         {"name": "Draining", "rules": "The arrow deals an extra 1d4 Necrotic damage; you gain Temporary Hit Points equal to the damage dealt."},
-        {"name": "Blinding", "rules": "The target must succeed on a DC 13 Constitution save or be Blinded until the end of its next turn."}
+        {"name": "Blinding", "rules": "If the attack hits, the target must succeed on a DC 13 Constitution save or be Blinded until the end of its next turn."}
         {"name": "Charming", "rules": "You can choose to charm a creature instead of dealing damage with this."}
     ],
     "4": [
