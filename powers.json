@@ -21,17 +21,6 @@
         {"name": "Blinding Flash", "rules": "The target must succeed on a DC 13 Constitution save or be Blinded until the end of its next turn."}
     ],
     "4": [
-        {"name": "Pinning Spike", "rules": "The target must succeed on a DC 14 Strength save or be Grappled (escape DC 14) as it is pinned to the floor or a wall."},
-        {"name": "Corrosive Core", "rules": "The arrow deals an extra 2d6 Acid damage."},
-        {"name": "Phase Arrow", "rules": "This arrow passes through solid objects. You ignore all cover, including Total Cover if you know the target's location."},
-        {"name": "Stunning Vibration", "rules": "The target must succeed on a DC 14 Constitution save or be Incapacitated until the end of its next turn."},
-        {"name": "Explosive Payload", "rules": "Creatures within 5 feet of the target must succeed on a DC 13 Dex save or take 2d6 Fire damage."}
-    ],
-    "5": [
-        {"name": "Weakening Sting", "rules": "The target must succeed on a DC 15 Constitution save or deal half damage with weapon attacks until the end of its next turn."},
-        {"name": "Banishment Head", "rules": "The target must succeed on a DC 15 Charisma save or be banished to a demiplane until the start of your next turn."},
-        {"name": "Dragon's Hiss", "rules": "The arrow explodes in a 15-foot cone behind the target, dealing 3d6 Fire damage (DC 15 Dex save for half)."},
-        {"name": "Gravity Well", "rules": "The target's space becomes Difficult Terrain. If the target moves, it takes 1d10 Force damage. Lasts 1 round."},
-        {"name": "Seeker Arrow", "rules": "You do not roll to hit. The arrow automatically hits a target you have seen in the last minute. Deals normal damage."}
+        {"name": "Beau's Finest", "rules": "Something STRONG."}
     ]
 }
