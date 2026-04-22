@@ -6,7 +6,7 @@
         {"name": "Healing", "rules": "Instead of dealing damage to allies with this arrow, they heal 1d4 hitpoints instead."},
         {"name": "Radiant", "rules": "All attacks with this arrow deal radiant damage instead."},
         {"name": "Boundy", "rules": "This arrow can bounce off of one surface before it hits its first target."},
-        {"name": "Roped", "rules": "After dealing damage to a target, you can either pull yourself to the target or"},
+        {"name": "Roped", "rules": "After dealing damage to a target, if the target is small or medium, you can either pull yourself to the target or make a strength contest to pull the target 10 ft towards you."},
         {"name": "", "rules": ""},
         {"name": "", "rules": ""},
         {"name": "", "rules": ""},
