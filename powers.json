@@ -19,8 +19,6 @@
         {"name": "Scrying", "rules": "For the next minute after firing you can see as if you were in the space of the arrow"},
         {"name": "Invisible", "rules": "Really hard to find, but you gain advantage on attacks made with this arrow."},
         {"name": "Bursting", "rules": "This arrow brusts into many pieces on impact and the splinters deal 1 damage to each creature within 30 ft."}
-        
-        
     ],
     "2": [
         {"name": "Toppling", "rules": "The target must succeed on a DC 12 Strength save or be knocked Prone."},
@@ -34,7 +32,6 @@
         {"name": "Invisiblerer", "rules": "Allies affected or hit by this arrow turn invisible for 1 minute, or until they attack or cast a spell."},
         {"name": "Giant", "rules": "Allies affected or hit by this arrow gain the benefit of the Enlarge spell for 1 minute"},
         {"name": "Chaining", "rules": "After the arrow hits, choose another target and repeat the attack. Continue until you miss. And yes, all secondary effects still happen for all attacks."}
-        
     ],
     "3": [
         {"name": "Fire", "rules": "The arrow deals an extra 1d8 Fire damage and ignites flammable objects not being worn."},
